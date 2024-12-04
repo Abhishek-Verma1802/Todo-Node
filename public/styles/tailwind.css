@@ -1,0 +1,10 @@
+/* public/styles/tailwind.css */
+
+/* Tailwind's base styles */
+@tailwind base;
+
+/* Tailwind's components */
+@tailwind components;
+
+/* Tailwind's utilities */
+@tailwind utilities;
